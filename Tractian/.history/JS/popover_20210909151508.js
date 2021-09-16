@@ -1,3 +1,0 @@
-$('.btn').popover({
-  trigger: 'focus'
-})
