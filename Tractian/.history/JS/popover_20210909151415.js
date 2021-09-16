@@ -1,0 +1,3 @@
+$('#eye').popover({
+  trigger: 'focus'
+})
