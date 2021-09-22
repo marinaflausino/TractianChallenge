@@ -1,0 +1,15 @@
+td, tr {
+   text-align: center;
+};
+
+td.inOperation {
+   background-color: green !important;
+};
+
+td.inDowntime {
+   background-color: orange !important;
+};
+
+td.inAlert {
+   background-color: red ;
+};

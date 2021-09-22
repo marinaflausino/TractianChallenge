@@ -1,0 +1,15 @@
+td, tr {
+   text-align: center;
+};
+
+get {
+   background-color: green;
+};
+
+.inDowntime {
+   background-color: orange;
+};
+
+.inAlert {
+   background-color: red
+};
